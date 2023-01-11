@@ -22,6 +22,6 @@
 [![JAVASCRIPT](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=css&logoColor=black&color=FFFF00)](#)
 
 ## ✨ Snake Game.
-> Sorteador de numero feito em Javascript
+> Snake Game feito em Javascript
 
 https://gabrielsousaf.github.io/Snake-game/
