@@ -24,4 +24,4 @@
 ## ✨ Snake Game.
 > Sorteador de numero feito em Javascript
 
-https://gabrielsousaf.github.io/Sorteio-Numeros/
+https://gabrielsousaf.github.io/Snake-game/
